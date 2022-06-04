@@ -1,7 +1,7 @@
-description: Empty TrueGRF project
-grfid: TRU1
+description: It's not empty
+grfid: TRUf
 license: CC0-1.0
-name: TrueGRF
+name: TrueAF
 type: townname
 url: https://github.com/frosch123/truegrf-towns
 version: 5

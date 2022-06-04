@@ -25,6 +25,8 @@ mainset:
     probability: 1
   - name: Rotter
     probability: 1
+  - name: Amste
+    probability: 1
 - names:
   - name: dam
     probability: 1
